@@ -1,5 +1,6 @@
 import GitHubIcon from '@material-ui/icons/GitHub'
 import LinkedInIcon from '@material-ui/icons/LinkedIn'
+import SchoolIcon from '@mui/icons-material/School';
 import { about } from '../../portfolio'
 import './About.css'
 
@@ -58,6 +59,19 @@ const About = () => {
                 <GitHubIcon />
               </a>
             )}
+
+            {social.college_email && (
+              <a
+                href={social.college_email}
+                aria-label='University Email'
+                className='link link--icon'
+                target='_blank'
+                rel='noopener noreferrer'
+              >
+                <SchoolIcon />
+              </a>
+            )}
+
           </>
         )}
       </div>

@@ -22,6 +22,7 @@ const about = {
   social: {
     linkedin: 'https://www.linkedin.com/in/dineshyd',
     github: 'https://github.com/HumbleBee14',
+    college_email: 'dineshyd@gatech.edu'
   },
 }
 
@@ -69,10 +70,14 @@ const skills = [
   'Next.js',
   'Docker',
   'Git',
-  'MongoDB',
   'SQL',
+  'NoSQL',
+  'MongoDB',
   'PostgreSQL',
   'Linux/Unix',
+  'AWS','Azure',
+  'Github Actions',
+  'Jenkins',
   'Elasticsearch',
 ]
 
