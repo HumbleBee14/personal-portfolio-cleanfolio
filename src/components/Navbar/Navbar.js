@@ -10,6 +10,7 @@ import './Navbar.css'
 const Navbar = () => {
   const [{ themeName, toggleTheme }] = useContext(ThemeContext)
   const [showNavList, setShowNavList] = useState(false)
+  const { name, resume, social } = about
 
   const toggleNavList = () => setShowNavList(!showNavList)
 
@@ -19,6 +20,18 @@ const Navbar = () => {
         style={{ display: showNavList ? 'flex' : null }}
         className='nav__list'
       >
+          {resume.length ? (
+          <li className='nav__list-item'>
+            <a
+              href={resume}
+              onClick={toggleNavList}
+              className='link link--nav'
+            >
+              Resume
+            </a>
+          </li>
+        ) : null}
+
         {projects.length ? (
           <li className='nav__list-item'>
             <a
