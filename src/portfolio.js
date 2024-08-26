@@ -11,15 +11,10 @@ const about = {
   description: [
     {
       id: 'para1',
-      text: "Hey there! 👋 I'm Dinesh, an experienced software developer with over 5 years in the industry, specializing in backend development with Java and Spring Boot, and also skilled in Node.js. My expertise extends to full-stack development, with experience in Python, C#, C/C++, JavaScript, React.js, and Elasticsearch. Throughout my career at Johnson Controls, Amdocs (AT&T), and Samsung R&D, I've contributed to cutting-edge projects, including the development of advanced Access Control solutions, telecom billing applications and cloud-based multi-tenant SaaS systems from the ground up. I'm well-versed in cloud-native deployment, CI/CD pipelines, and container technologies. Additionally, I've gained valuable experience through internships at startups, further broadening my skill set.",
+      text: "Hey there! 👋 I'm Dinesh, an experienced software developer with over 5 years in the industry, specializing in backend development with Java and Spring Boot, and also skilled in Node.js. My experience spans end-to-end application development, cloud modernization, and building scalable solution. Throughout my career at Johnson Controls, Amdocs (AT&T), and Samsung R&D, I've contributed to cutting-edge projects, including the development of advanced Access Control solutions, telecom billing applications and cloud-based multi-tenant SaaS systems from the ground up. I'm well-versed in cloud-native deployment, CI/CD pipelines, and container technologies. Additionally, I've gained valuable experience through internships at startups, further broadening my skill set.",
     },
     {
       id: 'para2',
-      text: "My experience spans end-to-end application development, cloud modernization, and building scalable solutions, and I'm always eager to explore new challenges and expand my knowledge.",
-    },
-
-    {
-      id: 'para3',
       text: "Currently, I'm pursuing a Master's in Computer Science (MSCS) at Georgia Tech in Atlanta (USA), with specialization in Computing Systems and Machine Learning, where I'm diving deeper into advanced topics and seeking innovative ways to leverage my technical skills.",
     },
   ],
