@@ -1,6 +1,6 @@
 import GitHubIcon from '@material-ui/icons/GitHub'
 import LinkedInIcon from '@material-ui/icons/LinkedIn'
-import SchoolIcon from '@mui/icons-material/School';
+import SchoolIcon from '@mui/icons-material/School'
 import { about } from '../../portfolio'
 import './About.css'
 
@@ -71,7 +71,6 @@ const About = () => {
                 <SchoolIcon />
               </a>
             )}
-
           </>
         )}
       </div>

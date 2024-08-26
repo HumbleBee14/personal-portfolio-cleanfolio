@@ -20,13 +20,9 @@ const Navbar = () => {
         style={{ display: showNavList ? 'flex' : null }}
         className='nav__list'
       >
-          {about.resume ? (
+        {about.resume ? (
           <li className='nav__list-item'>
-            <a
-              href={resume}
-              onClick={toggleNavList}
-              className='link link--nav'
-            >
+            <a href={resume} onClick={toggleNavList} className='link link--nav'>
               Resume
             </a>
           </li>

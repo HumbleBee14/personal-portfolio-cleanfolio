@@ -11,18 +11,18 @@ const about = {
   description: [
     {
       id: 'para1',
-      text: "Hey there! 👋 I'm Dinesh, an experienced software developer with over 5 years in the industry, specializing in backend development with Java and Spring Boot, and also skilled in Node.js. My experience spans end-to-end application development, cloud modernization, and building scalable solution. Throughout my career at Johnson Controls, Amdocs (AT&T), and Samsung R&D. I'm well-versed in building cloud-based multi-tenant SaaS systems, utilizing cloud-native deployment and container technologies"
+      text: "Hey there! 👋 I'm Dinesh, an experienced software developer with over 5 years in the industry, specializing in backend development with Java and Spring Boot, and also skilled in Node.js. My experience spans end-to-end application development, cloud modernization, and building scalable solution. Throughout my career at Johnson Controls, Amdocs (AT&T), and Samsung R&D. I'm well-versed in building cloud-based multi-tenant SaaS systems, utilizing cloud-native deployment and container technologies",
     },
     {
       id: 'para2',
-      text: "Currently, I'm pursuing a Master's in Computer Science at Georgia Tech, specializing in Computing Systems and Machine Learning, where I'm diving deeper into advanced topics and exploring new interests."
+      text: "Currently, I'm pursuing a Master's in Computer Science at Georgia Tech, specializing in Computing Systems and Machine Learning, where I'm diving deeper into advanced topics and exploring new interests.",
     },
   ],
   resume: '/DineshYadav_Resume.pdf',
   social: {
     linkedin: 'https://www.linkedin.com/in/dineshyd',
     github: 'https://github.com/HumbleBee14',
-    college_email: 'dineshyd@gatech.edu'
+    college_email: 'dineshyd@gatech.edu',
   },
 }
 
@@ -30,7 +30,6 @@ const projects = [
   // projects can be added an removed
   // if there are no projects, Projects section won't show up
 
-  
   // {
   //   name: 'Content Evaluation using NLP',
   //   description:
@@ -77,7 +76,8 @@ const skills = [
   'MongoDB',
   'PostgreSQL',
   'Linux/Unix',
-  'AWS','Azure',
+  'AWS',
+  'Azure',
   'Github Actions',
   'Jenkins',
   'Elasticsearch',
