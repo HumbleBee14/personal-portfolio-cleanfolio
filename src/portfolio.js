@@ -11,7 +11,7 @@ const about = {
   description: [
     {
       id: 'para1',
-      text: "Hey there! 👋 I'm Dinesh, an experienced software developer with a strong focus on backend development, specializing in Java and Spring Boot, Node.js. My expertise extends to full-stack development, with experience in Python, C#, JavaScript, React.js, and Elasticsearch. Throughout my career at Johnson Controls, Amdocs (AT&T), and Samsung R&D, I've contributed to cutting-edge projects, including the development of advanced Access Control solutions, telecom billing applications and cloud-based multi-tenant SaaS systems from ground up. I'm well-versed in cloud-native deployment, CI/CD pipelines, and container technologies. I've also gained valuable experience through internships at startups.",
+      text: "Hey there! 👋 I'm Dinesh, an experienced software developer with over 5 years in the industry, specializing in backend development with Java and Spring Boot, and also skilled in Node.js. My expertise extends to full-stack development, with experience in Python, C#, C/C++, JavaScript, React.js, and Elasticsearch. Throughout my career at Johnson Controls, Amdocs (AT&T), and Samsung R&D, I've contributed to cutting-edge projects, including the development of advanced Access Control solutions, telecom billing applications and cloud-based multi-tenant SaaS systems from the ground up. I'm well-versed in cloud-native deployment, CI/CD pipelines, and container technologies. Additionally, I've gained valuable experience through internships at startups, further broadening my skill set.",
     },
     {
       id: 'para2',
