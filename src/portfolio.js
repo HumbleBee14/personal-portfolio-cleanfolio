@@ -11,7 +11,7 @@ const about = {
   description: [
     {
       id: 'para1',
-      text: "Hey there! 👋 I'm Dinesh, an experienced software developer with over 5 years in the industry, specializing in backend development with Java and Spring Boot, and also skilled in Node.js. My experience spans end-to-end application development, cloud modernization, and building scalable solution. Throughout my career at Johnson Controls, Amdocs (AT&T), and Samsung R&D. I'm well-versed in buidling cloud-based multi-tenant SaaS systems, cloud-native deployment, and container technologies.",
+      text: "Hey there! 👋 I'm Dinesh, an experienced software developer with over 5 years in the industry, specializing in backend development with Java and Spring Boot, and also skilled in Node.js. My experience spans end-to-end application development, cloud modernization, and building scalable solution. Throughout my career at Johnson Controls, Amdocs (AT&T), and Samsung R&D. I'm well-versed in building cloud-based multi-tenant SaaS systems, utilizing cloud-native deployment and container technologies"
     },
     {
       id: 'para2',
@@ -37,18 +37,18 @@ const projects = [
     // livePreview: 'https://github.com',
   },
   {
-    name: 'Quick Permit',
+    name: 'Multi User Blogging platform',
     description:
-      'Launched software to approve permission requests sent by college students to professors for conducting workshops and seminars.',
-    stack: ['Node.js', 'MongoDB', 'Express.js'],
+      'Built a multi-user, single-page application with Node.js (Express), MongoDB, and React (Next.js) with server-side rendering (Nginx). Hosted on AWS EC2 for scalability and reliability, featuring JWT authentication and seamless user management.',
+    stack: ['Node.js', 'Next.js', 'MongoDB', 'Express.js', 'AWS'],
     // sourceCode: 'https://github.com',
     // livePreview: 'https://github.com',
   },
   {
-    name: 'CovMeal',
+    name: 'Theremin: Gesture-Controlled Music Synthesizer',
     description:
-      'Created a homemade nutritious food ordering software for COVID-19 patients during the pandemic by utilizing the React.js library and Cloud Firestore database. Handled a traffic of more than 600 users at one point in time.',
-    stack: ['React.js', 'Firebase', 'Materialize'],
+      'This Theremin uses a radio antenna to sense hand movements and produce musical tones without physical contact, providing a unique and interactive musical experience.',
+    stack: ['Arduino', 'Electroncis'],
     // sourceCode: 'https://github.com',
     // livePreview: 'https://github.com',
   },
@@ -57,25 +57,23 @@ const projects = [
 const skills = [
   // skills can be added or removed
   // if there are no skills, Skills section won't show up
-  'C++',
   'Java',
   'Python',
+  'C/C++',
+  'C#',
   'JavaScript',
-  'TypeScript',
-  'React.js',
   'Spring',
+  'Spring Boot',
   'Node.js',
-  'Mongoose',
-  'Redux',
-  'Material UI',
-  'Bootstrap',
-  'HTML/CSS',
+  'React.js',
+  'Next.js',
+  'Docker',
   'Git',
   'MongoDB',
   'SQL',
-  'Firebase',
-  'GraphQL',
-  'Blockchain',
+  'PostgreSQL',
+  'Linux/Unix',
+  'Elasticsearch',
 ]
 
 const contact = {
