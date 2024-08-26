@@ -22,7 +22,7 @@ const about = {
   social: {
     linkedin: 'https://www.linkedin.com/in/dineshyd',
     github: 'https://github.com/HumbleBee14',
-    college_email: 'dineshyd@gatech.edu',
+    collegEmail: 'dineshyd@gatech.edu',
   },
 }
 
