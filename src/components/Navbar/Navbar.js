@@ -20,7 +20,7 @@ const Navbar = () => {
         style={{ display: showNavList ? 'flex' : null }}
         className='nav__list'
       >
-          {about.length ? (
+          {about.resume ? (
           <li className='nav__list-item'>
             <a
               href={resume}
