@@ -18,7 +18,7 @@ const about = {
       text: 'Currently, I am pursuing advanced studies in Computer Science at Georgia Tech. I am looking for ways to apply my technical skills to create innovative solutions.',
     },
   ],
-  resume: '/resume.pdf',
+  resume: '/DineshYadav_Resume.pdf',
   social: {
     linkedin: 'https://www.linkedin.com/in/dineshyd',
     github: 'https://github.com/HumbleBee14',
