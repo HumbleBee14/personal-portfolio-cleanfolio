@@ -11,7 +11,7 @@ const about = {
   description: [
     {
       id: 'para1',
-      text: "Hey there! 👋 I'm Dinesh, an experienced software developer with over 5 years in the industry, specializing in backend development with Java and Spring Boot, and also skilled in Node.js. My experience spans end-to-end application development, cloud modernization, and building scalable solution. Throughout my career at Johnson Controls, Amdocs (AT&T), and Samsung R&D. I'm well-versed in building cloud-based multi-tenant SaaS systems, utilizing cloud-native deployment and container technologies",
+      text: "Hey there! 👋 I'm Dinesh, an experienced software developer with over 5 years of experience, specializing in backend development with Java and Spring Boot, and also skilled in Node.js and various other technologies. My expertise includes end-to-end full-stack application development, cloud modernization, and building scalable solutions creating cloud-based multi-tenant SaaS systems and leveraging cloud-native deployment and container technologies. I've worked with Johnson Controls, Amdocs (AT&T), and Samsung R&D Lab, where I contributed to various impactful projects.",
     },
     {
       id: 'para2',
