@@ -11,11 +11,11 @@ const about = {
   description: [
     {
       id: 'para1',
-      text: 'I am Dinesh Yadav, an experienced software engineer with a strong foundation in computer engineering and a passion for technology. I have experience working as a software engineer at Mastercard and multiple tech startups, gaining expertise in various tech stacks, including C++, JavaScript, Java, Python, and more.',
+      text: "Hey there! 👋 I'm Dinesh, an experienced software developer with a strong focus on backend technologies. My journey has led me to work on diverse projects with leading companies such as Johnson Controls, Samsung R&D, and Amdocs (AT&T). At Johnson Controls, I played a key role in developing a cutting-edge Access Control solution and contributed to cloud-based SaaS systems using Spring Boot, Docker, and CI/CD pipelines. My time at Amdocs involved full-stack development with C++, Java and React.js, and I was actively engaged in modernizing telecom applications and optimizing operational workflows with Python automation in SRE.",
     },
     {
       id: 'para2',
-      text: 'Currently, I am pursuing advanced studies in Computer Science at Georgia Tech. I am looking for ways to apply my technical skills to create innovative solutions.',
+      text: "Currently, I'm pursuing a Master's degree in Computer Science at Georgia Tech (Atlanta, USA), where I'm diving deeper into advanced topics and seeking innovative ways to leverage my technical skills. My experience spans end-to-end application development, cloud modernization, and building scalable solutions, and I'm always eager to explore new challenges and expand my knowledge.",
     },
   ],
   resume: '/DineshYadav_Resume.pdf',
