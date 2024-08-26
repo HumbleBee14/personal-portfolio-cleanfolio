@@ -63,7 +63,7 @@ const About = () => {
             {social.collegEmail && (
               <a
                 href={`mailto:${social.collegEmail}`}
-                aria-label='UniversityEmail'
+                aria-label='University Email'
                 className='link link--icon'
                 target='_blank'
                 rel='noopener noreferrer'
