@@ -29,18 +29,20 @@ const about = {
 const projects = [
   // projects can be added an removed
   // if there are no projects, Projects section won't show up
-  {
-    name: 'Content Evaluation using NLP',
-    description:
-      'Engineered a grading system to automatically scan & grade student answer sheets through extensive research on content-evaluation techniques in NLP',
-    stack: ['NLP', 'Flask'],
-    // sourceCode: 'https://github.com',
-    // livePreview: 'https://github.com',
-  },
+
+  
+  // {
+  //   name: 'Content Evaluation using NLP',
+  //   description:
+  //     'Engineered a grading system to automatically scan & grade student answer sheets through extensive research on content-evaluation techniques in NLP',
+  //   stack: ['NLP', 'Flask'],
+  //   // sourceCode: 'https://github.com',
+  //   // livePreview: 'https://github.com',
+  // },
   {
     name: 'Multi User Blogging platform',
     description:
-      'Built a multi-user, single-page application with Node.js (Express), MongoDB, and React (Next.js) with server-side rendering (Nginx). Hosted on AWS EC2 for scalability and reliability, featuring JWT authentication and seamless user management.',
+      'Developed a dynamic, SEO-optimized blogging platform with multi-user support. Built using Node.js, MongoDB, and React (Next.js) with server-side rendering. Hosted on AWS EC2 for scalability and reliability, featuring JWT authentication and seamless user management.',
     stack: ['Node.js', 'Next.js', 'MongoDB', 'Express.js', 'AWS'],
     // sourceCode: 'https://github.com',
     // livePreview: 'https://github.com',
