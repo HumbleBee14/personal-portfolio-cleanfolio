@@ -15,7 +15,7 @@ const about = {
     },
     {
       id: 'para2',
-      text: "Currently, I'm pursuing a Master's in Computer Science (MSCS) at Georgia Tech in Atlanta (USA), with specialization in Computing Systems and Machine Learning, where I'm diving deeper into advanced topics and seeking innovative ways to leverage my technical skills.",
+      text: "Currently, I'm pursuing a Master's in Computer Science at Georgia Tech, specializing in Computing Systems and Machine Learning, where I'm diving deeper into advanced topics and exploring new interests."
     },
   ],
   resume: '/DineshYadav_Resume.pdf',
