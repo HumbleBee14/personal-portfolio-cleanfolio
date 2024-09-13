@@ -47,6 +47,22 @@ const projects = [
     // livePreview: 'https://github.com',
   },
   {
+    name: 'Mini-Internet: Autonomous System Network',
+    description:
+      'Designed and simulated a scaled-down Autonomous System (AS) network, covering IP addressing, intra-domain (OSPF) and inter-domain (BGP) routing, and network security. The project provided insights into Internet infrastructure, BGP policies, and security mechanisms like RPKI, reflecting real-world ISP operations.',
+    stack: ['Computer Networks', 'Routing'],
+    // sourceCode: 'https://github.com',
+    // livePreview: 'https://github.com',
+  },
+  {
+    name: 'Relational Database Design and Implementation',
+    description:
+      'Building a fully functional relational database from the ground up using C++. Implemented core components including external sorting, buffer management, B-Tree indexing, and query execution engine. This project showcases deep understanding of database internals, advanced C++ Implementation using C++17, and low-level system design.',
+    stack: ['C++', 'Bash', 'Multithreading'],
+    // sourceCode: 'https://github.com',
+    // livePreview: 'https://github.com',
+  },
+  {
     name: 'Theremin: Gesture-Controlled Music Synthesizer',
     description:
       'This Theremin uses a radio antenna to sense hand movements and produce musical tones without physical contact, providing a unique and interactive musical experience.',
